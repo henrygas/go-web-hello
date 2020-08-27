@@ -1,1 +1,3 @@
-module "go-web-hello"
+module go-web-hello
+
+go 1.14
